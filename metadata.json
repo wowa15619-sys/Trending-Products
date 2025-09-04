@@ -1,0 +1,7 @@
+{
+  "name": "Copy of المتجر العالمي - Global Store AI",
+  "description": "An AI-powered e-commerce platform for finding winning products, featuring automated social media posting and an ethnicity analysis game.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
